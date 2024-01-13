@@ -21,22 +21,7 @@ const localizer = dateFnsLocalizer({
 });
 
 const events = [
-  {
-    title: "Big Meeting",
-    allDay: true,
-    start: new Date(2024, 0, 1),
-    end: new Date(2024, 0, 2),
-  },
-  {
-    title: "Vacation",
-    start: new Date(2024, 0, 2),
-    end: new Date(2024, 0, 3),
-  },
-  {
-    title: "Conference",
-    start: new Date(2024, 0, 3),
-    end: new Date(2024, 0, 6),
-  },
+ 
 ];
 
 function App() {
